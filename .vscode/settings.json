@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  
+    "[python]": {
+      "editor.formatOnSave": true
+    },
+  
+    "python.terminal.activateEnvironment": true,
+
+    
+}
+  
